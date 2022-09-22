@@ -1,0 +1,910 @@
+
+
+Mary Curnal <curnalmary@yahoo.com>
+To:
+Mary Curnal
+
+Tue, Mar 27, 2018 at 6:48 PM
+
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="utf-8">
+ <meta name="description"
+ content="web development for creatives,business and artist with wordpress and mobile design ">
+ <meta name="keywords"
+ content="web designers in kansas, fresh web design,creating a new website,starting an website,getting your website online,">
+ <title>East Diamond Web Development</title>
+ <link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
+ <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet"> 
+ <link href="https://fonts.googleapis.com/css?family=Anton|Open+Sans+Condensed:300" rel="stylesheet">
+ <style type="text/css">
+ *{
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+  border: 0px solid black;
+ }
+ #all{
+width: 99%;
+height: auto;
+overflow: hidden;
+border: 0px solid black;
+ }
+ .nav{
+  width: 100%;
+  height: 70px;
+  border: 1px solid black;
+  background-color: black;
+  margin-top:657px;
+  position: fixed;
+ }
+  #one{
+   width: 48%;
+   height:auto;
+   border: 0px solid black;
+margin-left: 3%;
+ display: inline-block;
+margin-top: 0px;
+overflow: hidden;
+  }
+  #book{
+   width: 100%;
+   height: 700px;
+  }
+   #two{
+   width: 48%;
+   height: 700px;
+   border: 0px solid black;
+overflow: hidden;
+margin-left: 0%;
+margin-top: 0px;
+display: inline-block;
+  }
+  #mobile{
+   width: 130%;
+   height: 700px;
+   
+  }
+ 
+ 
+  
+  h1{
+font-size: 4em;
+margin-top: -400px;
+margin-left: 0%;
+ font-family: 'Open Sans Condensed', sans-serif;
+width: 100%;
+ text-align: center;
+ letter-spacing: 5px;
+  }
+  p{
+   
+   font-size: 1.2em;
+   margin-top: 150px;
+   width: 30%;
+  
+   margin-left: 30%;
+   text-align: center;
+background-color: white;
+padding: 60px;
+padding-bottom: 90px;
+position: relative;
+opacity: 0.7;
+  }
+  ul{
+   margin-left: 31%;
+margin-top: 10px;
+  }
+  li{
+   color: white;
+   display: inline-block;
+margin-left: 10%;
+font-size: 1.2em;
+  }
+  h2{
+   font-family: 'Dancing Script', cursive;
+   letter-spacing: -2px;
+       font-size: 2em;
+      text-align: center;
+       margin-top: 20px;
+    width: 100%;
+    color: white;
+border: 0px solid black;
+  }
+  
+#app{
+ margin-top: 40px;
+ margin-left: 0%;
+ position: relative;
+ width: 97%;
+ height: 400px;
+ border: 0px solid black;
+ text-align: center;
+ color: white;
+ font-size: 2em;
+}
+#diamonds{
+ font-family: 'Anton', sans-serif;
+ margin-top: -600px;
+ position: absolute;
+ font-size: 7em;
+ letter-spacing: 9px;
+color: white;
+ margin-left: 2%;
+ border: 0px solid black;
+ width: 97%;
+ padding: 0px;
+ position: absolute;
+}
+ #aboutus{
+ width: 100%;
+ height: 500px;
+ border: 0px solid black;
+ margin-left: 0%;
+ background-image: url("phone.jpg");
+ background-size: 100%;
+ margin-top:250px;
+}
+p{
+   
+   font-size: 1.2em;
+   margin-top: 0px;
+   width: 30%;
+  
+   margin-left: 55%;
+   text-align: center;
+background-color: black;
+padding: 100px;
+padding-bottom: 170px;
+padding-top: 170px;
+color: white;
+opacity: 0.9;
+  }
+   #one2{
+   width: 45%;
+   height:auto;
+   border: 0px solid black;
+margin-left: 4%;
+ display: inline-block;
+margin-top: 0px;
+overflow: hidden;
+  }
+  #book2{
+   width: 100%;
+   height: 350px;
+  }
+   #two2{
+   width: 45%;
+   height: 350px;
+   border: 0px solid black;
+overflow: hidden;
+margin-left: 2%;
+margin-top: 0px;
+display: inline-block;
+  }
+  #mobile2{
+   width: 130%;
+   height: 350px;
+   
+  }
+li:a{
+ color: white;
+}
+#portfolio{
+ border: 0px solid black;
+ background-color: initial;
+ color: black;
+ font-size: 2em;
+ margin-top: -80px;
+ padding: 0px;
+ width: 27%;
+position: absolute;
+margin-left: 37%;
+}
+#aboutp{
+ border: 0px solid black;
+ background-color: initial;
+ color: black;
+ font-size: 2em;
+ margin-top: 100px;
+ padding: 10px;
+ width: 35%;
+position:absolute;
+margin-left: 32%;
+}
+#contactus{
+ width: 100%;
+ margin-left: -4%;
+ text-align: center;
+ opacity: 1;
+ position: static;
+ background-color: initial;
+ color: black;
+}
+.features{
+ width: 100%;
+ height: 750px;
+ border-top: 0px solid #008080;
+margin-top: 300px;
+background-color:#F5F5F5;
+background-color: black;
+background-size: 100%,50%;
+overflow: hidden;
+background-position: center;
+}
+#strip{
+ width: 100%;
+ margin-top: 100px;
+ height: 570px;
+ border: 0px solid black;
+ background-color: white;
+ background-image: url(features.jpg);
+ background-position: center;
+ position: initial;
+}
+#seo{
+ width: 20%;
+ height: 300px;
+ border: 0px solid black;
+ display: inline-block;
+ margin-left: 3%;
+opacity: 0.8;
+background-color: white;
+border-radius: 100%;
+margin-top: 100px;
+}
+#wordpress{
+ width: 20%;
+ height: 300px;
+ border: 0px solid black;
+display: inline-block;
+margin-left: 27%;
+background-color: white;
+border-radius: 100%;
+opacity: 0.8;
+margin-top: 100px;
+position: absolute;
+}
+#mobileweb{
+ width: 20%;
+ height: 300px;
+ border: 0px solid black;
+ display: inline-block;
+ margin-left: 3%;
+ position: absolute;
+ opacity: 0.8;
+ border-radius: 100%;
+ margin-top: 100px;
+ 
+ background-color: white;
+border-radius: 100%;
+ 
+}
+#costumdesign{
+ width: 20%;
+ height: 300px;
+ border: 0px solid black;
+ display: inline-block;
+ margin-left: 52%;
+ background-color: white;
+border-radius: 100%;
+ opacity: 0.8;
+ border-radius: 100%;
+position: absolute;
+margin-top: 100px;
+}
+#seoin{
+ width: 100%;
+ height: 40px;
+ border: 0px solid white;
+ display: inline-block;
+ 
+ 
+}
+#wordpressin{
+ width: 80%;
+ height: 170px;
+ border: 0px solid black;
+display: inline-block;
+ color: black;
+ margin-left: 11%;
+}
+#mobilewebin{
+ width: 100%;
+ height:30px;
+ border: 0px solid black;
+ display: inline-block;
+  color: black;
+ 
+}
+#costumdesignin{
+ width: 100%;
+ height: 20px;
+ border: 0px solid black;
+ display: inline-block;
+  color: black;
+}
+#seow{
+ width: 56%;
+ margin-left: 20%;
+ text-align: center;
+ background-color:initial;
+position: initial;
+height: 150px;
+padding: 0px;
+ color:black;
+font-size: 3em;
+margin-top: 100px;
+}
+#mobilewebw{
+ width: 40%;
+ height: 150px;
+ border: 0px solid black;
+display: inline-block;
+ margin-left: 28%;
+ background-color:initial;
+margin-top: 70px;
+}
+#wordpressw{
+ width: 100%;
+ margin-left: 0%;
+ text-align: center;
+ background-color:initial;
+ 
+
+color:black;
+font-size: 3em;
+margin-top: 20px;
+}
+#costumdesignw{
+ width: 65%;
+ margin-left: 17%;
+ text-align: center;
+ background-color:initial;
+position: initial;
+height: 180px;
+padding: 0px;
+color: #828282;
+font-size: 3em;
+margin-top: 50px;
+}
+#seop{
+ font-size: 1.2em;
+ text-align: center;
+ margin-top: 50px;
+ word-spacing: 1px;
+ letter-spacing: 0px;
+ font-family: initial;
+ color: white;
+}
+#mobilewebp{
+ font-size: 1.2em;
+ text-align: center;
+ margin-top: 80px;
+ word-spacing: 1px;
+ letter-spacing: 1px;
+ font-family: initial;
+ color: white;
+}
+#wordpressp{
+ width: 100%;
+ font-size: 1.2em;
+ text-align: center;
+ margin-top: 30px;
+ word-spacing: 1px;
+ letter-spacing: 0px;
+ 
+ color: white;
+}
+#costumedesignp{
+ font-size: 1.2em;
+ text-align: center;
+ margin-top: 70px;
+ word-spacing: 1px;
+ letter-spacing: 0px;
+ font-family: initial;
+ color: white;
+}
+@media (max-width: 640px){
+.nav{
+ display: none;
+}
+ #one{
+   width: 100%;
+   height:auto;
+   border: 0px solid black;
+margin-left: 0.5%;
+ display: inline-block;
+margin-top: 0px;
+overflow: hidden;
+  }
+  #book{
+   width: 100%;
+   height: 500px;
+  }
+   #two{
+   width: 45%;
+   height: 500px;
+   border: 0px solid black;
+overflow: hidden;
+margin-left: 1%;
+margin-top: -700px;
+display: inline-block;
+display: none;
+  }
+  #mobile{
+   width: 130%;
+   height: 500px;
+   
+  }
+ 
+ 
+  
+  h1{
+font-size: 1em;
+margin-top: 20px;
+margin-left: 0%;
+ font-family: 'Open Sans Condensed', sans-serif;
+ text-align: center;
+ letter-spacing: 5px;
+  }
+  p{
+   
+   font-size: 1em;
+   margin-top: 350px;
+   width: 30%;
+  
+   margin-left: 30%;
+   text-align: center;
+background-color: white;
+padding: 80px;
+padding-bottom: 90px;
+position: relative;
+opacity: 0.7;
+  }
+  ul{
+   margin-left: 31%;
+margin-top: 10px;
+  }
+  li{
+   color: white;
+   display: inline-block;
+margin-left: 10%;
+font-size: 1.2em;
+  }
+  h2{
+   font-family: 'Dancing Script', cursive;
+   letter-spacing: -2px;
+       font-size: 1em;
+     
+       margin-top: 20px;
+    margin-left: -20%;
+    color: black;
+  }
+  
+#app{
+ margin-top: 40px;
+ 
+width: 100%;
+ border: 0px solid black;
+ text-align: center;
+ color: white;
+ font-size: 0.9em;
+ margin-left: 0%;
+}
+#diamonds{
+ font-family: 'Anton', sans-serif;
+ margin-top: -400px;
+ 
+ font-size: 1.5em;
+ letter-spacing: 9px;
+position: relative;
+ margin-left: 0%;
+ border: 0px solid black;
+ 
+ 
+}
+ #aboutus{
+ width: 100%;
+ height: 300px;
+ border: 0px solid black;
+ margin-left: 0%;
+ background-size: 100%;
+ margin-top:100px;
+}
+p{
+   
+   font-size: 1em;
+   margin-top: -52px;
+   width: 50%;
+  
+   margin-left: 14%;
+   text-align: center;
+background-color: black;
+padding: 40px;
+opacity: 1;
+color: white;
+  }
+   #one2{
+   width: 47%;
+   height:auto;
+   border: 0px solid black;
+margin-left: 0%;
+ display: inline-block;
+margin-top: -160px;
+overflow: hidden;
+  }
+  #book2{
+   width: 100%;
+   height: 100px;
+  }
+   #two2{
+   width: 47%;
+   height: 100px;
+   border: 0px solid black;
+overflow: hidden;
+margin-left: 3%;
+margin-top: -1000px;
+display: inline-block;
+  }
+  #mobile2{
+   width: 130%;
+   height: 100px;
+   
+  }
+#portfolio{
+ border: 0px solid black;
+ background-color: initial;
+ color: black;
+ font-size: 2em;
+ margin-top: -150px;
+ padding: 0px;
+ width: 27%;
+position: absolute;
+margin-left: 34%;
+}
+#aboutp{
+ border: 0px solid black;
+ background-color: initial;
+ color: black;
+ font-size: 2em;
+ margin-top: 100px;
+ padding: 10px;
+ width: 35%;
+position:absolute;
+margin-left: 27%;
+color: white;
+}
+#contactus{
+ width: 100%;
+ margin-left: -15%;
+ text-align: center;
+ opacity: 1;
+ position: static;
+ margin-top: 100px;
+}
+#bout{
+ display: none;
+}
+#port{
+ display: none;
+}
+#con{
+ display: none;
+}
+}
+@media (max-width: 959px){
+ #one{
+   width: 100%;
+   height:auto;
+   border: 0px solid black;
+margin-left: 0.5%;
+ display: inline-block;
+margin-top: 0px;
+overflow: hidden;
+  }
+  #book{
+   width: 100%;
+   height: 300px;
+  }
+   #two{
+   width: 45%;
+   height: 200px;
+   border: 0px solid black;
+overflow: hidden;
+margin-left: 1%;
+margin-top: -700px;
+display: inline-block;
+display: none;
+  }
+  #mobile{
+   width: 130%;
+   height: 200px;
+   
+  }
+ 
+ 
+  
+  h1{
+font-size: 1em;
+margin-top: 20px;
+margin-left: 0%;
+ font-family: 'Open Sans Condensed', sans-serif;
+ text-align: center;
+ letter-spacing: 5px;
+  }
+  p{
+   
+   font-size: 1em;
+   margin-top: 150px;
+   width: 30%;
+  
+   margin-left: 30%;
+   text-align: center;
+background-color: white;
+padding: 80px;
+padding-bottom: 70px;
+position: relative;
+opacity: 0.7;
+  }
+  ul{
+   margin-left: 31%;
+margin-top: 10px;
+  }
+  li{
+   color: white;
+   display: inline-block;
+margin-left: 10%;
+font-size: 1.2em;
+  }
+  h2{
+   font-family: 'Dancing Script', cursive;
+   letter-spacing: -2px;
+       font-size: 1em;
+     
+       margin-top: 20px;
+    margin-left: -20%;
+    color: black;
+  }
+  
+#app{
+ margin-top: 40px;
+ 
+width: 100%;
+ border: 0px solid black;
+ text-align: center;
+ color: white;
+ font-size: 0.9em;
+ margin-left: 0%;
+}
+#diamonds{
+ font-family: 'Anton', sans-serif;
+ margin-top: -400px;
+ 
+ font-size: 1.5em;
+ letter-spacing: 9px;
+position: relative;
+ margin-left: 0%;
+ border: 0px solid black;
+ 
+ 
+}
+ #aboutus{
+ width: 100%;
+ height: 300px;
+ border: 0px solid black;
+ margin-left: 0%;
+ background-size: 100%;
+ margin-top:100px;
+}
+p{
+   
+   font-size: 1em;
+   margin-top: -52px;
+   width: 50%;
+  
+   margin-left: 14%;
+   text-align: center;
+background-color: black;
+padding: 40px;
+opacity: 1;
+color: white;
+  }
+   #one2{
+   width: 47%;
+   height:auto;
+   border: 0px solid black;
+margin-left: 0%;
+ display: inline-block;
+margin-top: -160px;
+overflow: hidden;
+  }
+  #book2{
+   width: 100%;
+   height: 100px;
+  }
+   #two2{
+   width: 47%;
+   height: 100px;
+   border: 0px solid black;
+overflow: hidden;
+margin-left: 3%;
+margin-top: -1000px;
+display: inline-block;
+  }
+  #mobile2{
+   width: 130%;
+   height: 100px;
+   
+  }
+#portfolio{
+ border: 0px solid black;
+ background-color: initial;
+ color: black;
+ font-size: 2em;
+ margin-top: -150px;
+ padding: 0px;
+ width: 27%;
+position: absolute;
+margin-left: 34%;
+}
+#aboutp{
+ border: 0px solid black;
+ background-color: initial;
+ color: black;
+ font-size: 2em;
+ margin-top: 100px;
+ padding: 10px;
+ width: 35%;
+position:absolute;
+margin-left: 27%;
+color: white;
+}
+#contactus{
+ width: 100%;
+ margin-left: -15%;
+ text-align: center;
+ opacity: 1;
+ position: static;
+ margin-top: 700px;
+}
+#bout{
+ display: none;
+}
+#port{
+ display: none;
+}
+#con{
+ display: none;
+}
+.features{
+ background-color: white;
+ height: 800px;
+ border: 1px solid black;
+}
+#strip{
+background-image: none;
+background-color: initial;
+height: 1000px;
+margin-top: -100px;
+}
+#seo{
+display: initial;
+border: 0px solid black;
+background-color: initial;
+margin-top:0px;
+}
+#mobileweb{
+display: initial;
+border: 0px solid black;
+background-color: initial;
+margin-top: -90px;
+width: 77%;
+margin-left: 10%;
+border-radius: 0%;
+}
+#mobilewebp{
+color: black;
+margin-top: 20px;
+width: 100%;
+display: none;
+}
+#wordpress{
+ border-radius: 0%;
+ border: 0px solid black;
+ background-color: initial;
+  margin-top: 320px;
+}
+#wordpressw{
+ width: 240%;
+ height: 150px;
+margin-top: -330px;
+}
+#wordpressin{
+ border: 0px solid black;
+}
+#wordpressp{
+ color: black;
+ width: 100%;
+ margin-top: -500px;
+ display: none;
+}
+#costumdesign{
+ display: initial;
+border: 0px solid black;
+background-color: initial;
+margin-top: -140px;
+width: 77%;
+margin-left: 8%;
+border-radius: 0%;
+}
+#costumdesignw{
+ width: 54%;
+ height: 200px;
+ margin-top: 500px;
+ margin-left: 26%;
+}
+#seop{
+ color: black;
+ margin-top: 20px;
+ display: none;
+}
+#wordpressin{
+ height: 500px;
+}
+}
+ </style>
+
+
+
+
+</head>
+<body>
+ 
+
+<div id="all">
+ <div class="nav">
+  <ul>
+<a href="#bout"><li>about</li></a>
+<a href="#port"><li>portfolio</li></a>
+<a href="#con"><li>contact</li></a>
+  </ul>
+ </div>
+ <div id="one">
+  <img  id="book" src="phone.jpg">
+ </div>
+ 
+ <div id="two">
+  <img  id="mobile" src="mobile.jpg">
+ </div>
+ <h1 id="diamonds"> East Diamonds</h1>
+ <h1>Web Development </h1>
+<h1 id="app">mobile &
+app development  </h1>
+<p id="portfolio">portfolio  </p>
+<a name="port"> <div id="one2"></a>
+  <a href="maryamcurnalport.html"><img  id="book2" src="giam.jpg"></a>
+ </div>
+ 
+ <div id="two2">
+  <a href="maryamcurnalport2.html"><img  id="mobile2" src="fabian.jpg"></a>
+ </div>
+ <p id="aboutp">about us  </p>
+<div id="aboutus">
+
+<a name="bout"><p>
+East diamond development is about creating visually appealing websites and helping clients with expanding their business .our goal is always satisfy you and your business needs  .we want to get your ideas up and running at the best possibly price and quality available .east development offers Google and search engine visibility, mobile friendliness, and a cms so you can modify your content .
+
+ .</p></a>
+</div>
+<a name="con"><p id="contactus">email us at: diamondsoftheast@yahoo.com
+</br>call us at : 913 416 9807</p></a>
+</div>
+</body>
+</html>
+
+
+
+
+
